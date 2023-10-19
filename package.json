@@ -18,8 +18,10 @@
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
   },
   "dependencies": {
+    "@swc/helpers": "^0.5.3",
     "axios": "^1.5.1",
-    "modern-normalize": "^1.1.0"
+    "modern-normalize": "^1.1.0",
+    "regenerator-runtime": "^0.14.0"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
