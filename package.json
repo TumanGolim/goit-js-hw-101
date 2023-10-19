@@ -1,7 +1,7 @@
 {
   "name": "parcel-project-template",
   "version": "2.0.0",
-  "description": "Этот проект был создан при помощи Parcel. Для знакомства и настройки\r дополнительных возможностей [обратись к документации](https://parceljs.org/).",
+  "description": "",
   "homepage": "https://TumanGolim.github.io/goit-js-hw-10",
   "scripts": {
     "start": "parcel src/*.html",
