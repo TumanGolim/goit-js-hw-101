@@ -1,4 +1,5 @@
 import axios from 'axios';
+import { fetchBreeds, fetchCatByBreed } from './cat-api';
 
 const apiKey =
   'live_uNRLc0COBdNx17WnAGlMUQQ1O3sWv1wRyrDEdbOTLaWw1HoYnzFviM8nc7f87LBo';
