@@ -28,7 +28,7 @@ export async function fetchCatByBreed(breedId) {
         temperament: catData.breeds[0].temperament,
         imageUrl: catData.url,
       };
-    }
+      }
   } catch (error) {
     throw error;
   }
